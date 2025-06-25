@@ -35,7 +35,7 @@ Every dataset I explore is a story I want to tell through intelligent systems.
 - MLOps & Model Deployment  
 - Full-stack with React + AI Integration  
 - FastAPI + AI APIs  
-- Cloud Computing (AWS & GCP basics)
+- Cloud Computing (AWS & AZURE basics)
 
 ---
 
