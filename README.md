@@ -1,4 +1,4 @@
-# 🚀 Mohamed Tamer | Future AI Innovator
+# Mohamed Tamer | Future AI Innovator
 
 🎓 AI Student @ Benha University  
 🧠 Learning today to build tomorrow  
