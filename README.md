@@ -69,19 +69,30 @@ const mohamedTamer = {
 
 <div align="center">
 
-### 🌐 **Frontend Mastery**
+### 🏗️ **Software Architecture**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🧠 **AI & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🎯 **Software Principles**
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF4154?style=for-the-badge&logo=systemd&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🛠️ **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -186,11 +197,6 @@ mindmap
 | Research Projects | Startup Ventures | Industry Mentors |
 | Hackathons | Real-world Applications | Global Communities |
 
-### 💌 **Ready to connect?**
-
-[![Let's Collaborate](https://img.shields.io/badge/Let's_Collaborate-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white)](mailto:mohamedtamer@example.com)
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-00D9FF?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/mohamed-tamer)
-[![Join My Network](https://img.shields.io/badge/Join_My_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-tamer-nassr)
 
 </div>
 
@@ -201,16 +207,3 @@ mindmap
 ### 🌟 **"The future belongs to those who train it."**
 *— Mohamed Tamer*
 
----
-
-<sub>⚡ **Fun fact**: This README was crafted with the same attention to detail I put into training my models!</sub>
-
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Tamer-Nassr&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;Let's+build+AI+together+🤖;Connect+with+me+and+let's+innovate!" alt="Closing Message" />
-</div>
