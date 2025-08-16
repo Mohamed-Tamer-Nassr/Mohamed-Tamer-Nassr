@@ -4,10 +4,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Student+%40+Benha+University;Building+Tomorrow's+Intelligence+Today;Turning+Code+Into+Consciousness)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=for-the-badge&color=00D9FF)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-tamer-nassr)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedtamer@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-tamer-portfolio.vercel.app)
+[![GitHub followers](https://img.shields.io/github/followers/Mohamed-Tamer-Nassr?label=Follow&style=for-the-badge&color=00D9FF)](https://github.com/Mohamed-Tamer-Nassr)
 
 </div>
 
@@ -164,12 +164,12 @@ mindmap
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tamer-Nassr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Tamer-Nassr&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Tamer-Nassr&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -188,9 +188,9 @@ mindmap
 
 ### 💌 **Ready to connect?**
 
-[![Let's Collaborate](https://img.shields.io/badge/Let's_Collaborate-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white)](mailto:your.email@example.com)
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-00D9FF?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/your-link)
-[![Join My Network](https://img.shields.io/badge/Join_My_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Let's Collaborate](https://img.shields.io/badge/Let's_Collaborate-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white)](mailto:mohamedtamer@example.com)
+[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-00D9FF?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/mohamed-tamer)
+[![Join My Network](https://img.shields.io/badge/Join_My_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-tamer-nassr)
 
 </div>
 
@@ -205,7 +205,7 @@ mindmap
 
 <sub>⚡ **Fun fact**: This README was crafted with the same attention to detail I put into training my models!</sub>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Tamer-Nassr&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
