@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Student+%40+Benha+University;Building+Tomorrow's+Intelligence+Today;Turning+Code+Into+Consciousness)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-tamer-nassr)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedtamer@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.tamer.nassr@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-tamer-portfolio.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/Mohamed-Tamer-Nassr?label=Follow&style=for-the-badge&color=00D9FF)](https://github.com/Mohamed-Tamer-Nassr)
 
