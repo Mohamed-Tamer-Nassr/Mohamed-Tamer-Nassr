@@ -107,6 +107,11 @@ const mohamedTamer = {
 
 ## 🎯 Focus Areas
 
+<div align="center">
+
+# 🤖 My AI & Development Journey
+
+```mermaid
 mindmap
   root((🧠 AI Journey))
     🤖 Machine Learning
@@ -196,7 +201,20 @@ mindmap
         Apache Spark
         Data Pipelines
         ETL Processes
+```
 
+---
+
+### 🛠️ **Current Focus Areas**
+- 🔬 **Experiment**: Advanced NLP with transformer architectures
+- 🏗️ **Build**: Full-stack AI applications with modern web frameworks  
+- 📈 **Scale**: Production ML systems with robust MLOps practices
+- 🌟 **Explore**: Cutting-edge AI research and emerging technologies
+
+### 📚 **Learning Philosophy**
+> *"Building intelligent systems through hands-on experimentation, continuous learning, and practical application of AI/ML concepts in real-world projects."*
+
+</div>
 ---
 
 ## 🌱 Current Learning Path
