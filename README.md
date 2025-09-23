@@ -105,12 +105,11 @@ const mohamedTamer = {
 
 ---
 
-## 🎯 Focus Areas
-
 <div align="center">
 
 # 🤖 My AI & Development Journey
-mermaid
+
+```mermaid
 mindmap
   root((AI Journey))
     Machine Learning
@@ -133,8 +132,10 @@ mindmap
       Model Deployment
       Cloud Platforms
       CI/CD for ML
+```
 
 </div>
+
 ---
 
 ## 🌱 Current Learning Path
