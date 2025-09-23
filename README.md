@@ -110,32 +110,29 @@ const mohamedTamer = {
 <div align="center">
 
 # 🤖 My AI & Development Journey
-flowchart TD
-    A[AI Journey] --> B[Machine Learning]
-    A --> C[Deep Learning]
-    A --> D[NLP]
-    A --> E[Web Development]
-    A --> F[MLOps]
-    
-    B --> B1[Supervised Learning]
-    B --> B2[Unsupervised Learning]
-    B --> B3[Reinforcement Learning]
-    
-    C --> C1[Neural Networks]
-    C --> C2[CNNs]
-    C --> C3[RNNs/LSTMs]
-    
-    D --> D1[Text Processing]
-    D --> D2[Language Models]
-    D --> D3[Sentiment Analysis]
-    
-    E --> E1[React Ecosystem]
-    E --> E2[Full-Stack AI Apps]
-    E --> E3[API Development]
-    
-    F --> F1[Model Deployment]
-    F --> F2[Cloud Platforms]
-    F --> F3[CI/CD for ML]
+mermaid
+mindmap
+  root((AI Journey))
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+      Reinforcement Learning
+    Deep Learning
+      Neural Networks
+      CNNs
+      RNNs/LSTMs
+    NLP
+      Text Processing
+      Language Models
+      Sentiment Analysis
+    Web Development
+      React Ecosystem
+      Full-Stack AI Apps
+      API Development
+    MLOps
+      Model Deployment
+      Cloud Platforms
+      CI/CD for ML
 
 </div>
 ---
