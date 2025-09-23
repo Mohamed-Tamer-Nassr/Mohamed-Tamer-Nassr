@@ -110,109 +110,32 @@ const mohamedTamer = {
 <div align="center">
 
 # 🤖 My AI & Development Journey
-
-```mermaid
-mindmap
-  root((🧠 AI Journey))
-    🤖 Machine Learning
-      📊 Supervised Learning
-        Classification
-        Regression
-        Decision Trees
-        Random Forest
-      🔍 Unsupervised Learning
-        Clustering
-        Dimensionality Reduction
-        Association Rules
-      🎮 Reinforcement Learning
-        Q-Learning
-        Policy Gradients
-        Deep Q-Networks
-        Multi-Agent Systems
-    🧬 Deep Learning
-      🔗 Neural Networks
-        Feedforward Networks
-        Backpropagation
-        Optimization
-      👁️ Computer Vision
-        CNNs
-        Object Detection
-        Image Segmentation
-        GANs
-      📝 Sequential Models
-        RNNs/LSTMs
-        Transformers
-        Attention Mechanisms
-    💬 Natural Language Processing
-      📄 Text Processing
-        Tokenization
-        NER
-        POS Tagging
-      🤖 Language Models
-        BERT
-        GPT
-        T5
-        Fine-tuning
-      😊 Advanced NLP
-        Sentiment Analysis
-        Text Classification
-        Question Answering
-        Chatbots
-    🌐 Web Development
-      ⚛️ Frontend
-        React/Next.js
-        TypeScript
-        Tailwind CSS
-        State Management
-      🔧 Backend
-        Node.js/Python
-        FastAPI
-        GraphQL
-        Microservices
-      🔗 AI Integration
-        Model APIs
-        Real-time Inference
-        Vector Databases
-    ☁️ MLOps & Deployment
-      🚀 Model Deployment
-        Docker
-        Kubernetes
-        Model Serving
-      ☁️ Cloud Platforms
-        AWS/GCP/Azure
-        Serverless
-        Auto Scaling
-      🔄 DevOps
-        CI/CD Pipelines
-        Model Versioning
-        A/B Testing
-        Monitoring
-    📊 Data Science
-      🔢 Data Analysis
-        Pandas/NumPy
-        Statistical Analysis
-        Feature Engineering
-      📈 Visualization
-        Matplotlib
-        Plotly
-        Streamlit
-        Dashboards
-      🗄️ Big Data
-        Apache Spark
-        Data Pipelines
-        ETL Processes
-```
-
----
-
-### 🛠️ **Current Focus Areas**
-- 🔬 **Experiment**: Advanced NLP with transformer architectures
-- 🏗️ **Build**: Full-stack AI applications with modern web frameworks  
-- 📈 **Scale**: Production ML systems with robust MLOps practices
-- 🌟 **Explore**: Cutting-edge AI research and emerging technologies
-
-### 📚 **Learning Philosophy**
-> *"Building intelligent systems through hands-on experimentation, continuous learning, and practical application of AI/ML concepts in real-world projects."*
+flowchart TD
+    A[AI Journey] --> B[Machine Learning]
+    A --> C[Deep Learning]
+    A --> D[NLP]
+    A --> E[Web Development]
+    A --> F[MLOps]
+    
+    B --> B1[Supervised Learning]
+    B --> B2[Unsupervised Learning]
+    B --> B3[Reinforcement Learning]
+    
+    C --> C1[Neural Networks]
+    C --> C2[CNNs]
+    C --> C3[RNNs/LSTMs]
+    
+    D --> D1[Text Processing]
+    D --> D2[Language Models]
+    D --> D3[Sentiment Analysis]
+    
+    E --> E1[React Ecosystem]
+    E --> E2[Full-Stack AI Apps]
+    E --> E3[API Development]
+    
+    F --> F1[Model Deployment]
+    F --> F2[Cloud Platforms]
+    F --> F3[CI/CD for ML]
 
 </div>
 ---
