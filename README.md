@@ -107,34 +107,95 @@ const mohamedTamer = {
 
 ## 🎯 Focus Areas
 
-<div align="center">
-
-```mermaid
 mindmap
-  root((AI Journey))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Reinforcement Learning
-    Deep Learning
-      Neural Networks
-      CNNs
-      RNNs/LSTMs
-    NLP
-      Text Processing
-      Language Models
-      Sentiment Analysis
-    Web Development
-      React Ecosystem
-      Full-Stack AI Apps
-      API Development
-    MLOps
-      Model Deployment
-      Cloud Platforms
-      CI/CD for ML
-```
-
-</div>
+  root((🧠 AI Journey))
+    🤖 Machine Learning
+      📊 Supervised Learning
+        Classification
+        Regression
+        Decision Trees
+        Random Forest
+      🔍 Unsupervised Learning
+        Clustering
+        Dimensionality Reduction
+        Association Rules
+      🎮 Reinforcement Learning
+        Q-Learning
+        Policy Gradients
+        Deep Q-Networks
+        Multi-Agent Systems
+    🧬 Deep Learning
+      🔗 Neural Networks
+        Feedforward Networks
+        Backpropagation
+        Optimization
+      👁️ Computer Vision
+        CNNs
+        Object Detection
+        Image Segmentation
+        GANs
+      📝 Sequential Models
+        RNNs/LSTMs
+        Transformers
+        Attention Mechanisms
+    💬 Natural Language Processing
+      📄 Text Processing
+        Tokenization
+        NER
+        POS Tagging
+      🤖 Language Models
+        BERT
+        GPT
+        T5
+        Fine-tuning
+      😊 Advanced NLP
+        Sentiment Analysis
+        Text Classification
+        Question Answering
+        Chatbots
+    🌐 Web Development
+      ⚛️ Frontend
+        React/Next.js
+        TypeScript
+        Tailwind CSS
+        State Management
+      🔧 Backend
+        Node.js/Python
+        FastAPI
+        GraphQL
+        Microservices
+      🔗 AI Integration
+        Model APIs
+        Real-time Inference
+        Vector Databases
+    ☁️ MLOps & Deployment
+      🚀 Model Deployment
+        Docker
+        Kubernetes
+        Model Serving
+      ☁️ Cloud Platforms
+        AWS/GCP/Azure
+        Serverless
+        Auto Scaling
+      🔄 DevOps
+        CI/CD Pipelines
+        Model Versioning
+        A/B Testing
+        Monitoring
+    📊 Data Science
+      🔢 Data Analysis
+        Pandas/NumPy
+        Statistical Analysis
+        Feature Engineering
+      📈 Visualization
+        Matplotlib
+        Plotly
+        Streamlit
+        Dashboards
+      🗄️ Big Data
+        Apache Spark
+        Data Pipelines
+        ETL Processes
 
 ---
 
