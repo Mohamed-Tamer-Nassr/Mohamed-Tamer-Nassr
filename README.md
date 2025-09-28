@@ -114,40 +114,37 @@ const mohamedTamer = {
 <td align="center" width="33%">
 
 ### 🧠 **Machine Learning**
-<img src="https://img.shields.io/badge/Level-Advanced-00D9FF?style=flat-square" alt="Advanced Level"/>
 
 **Core Competencies:**
-- ✅ Supervised Learning
-- ✅ Unsupervised Learning  
-- ✅ Reinforcement Learning
-- ✅ Feature Engineering
-- ✅ Model Optimization
+-  Supervised Learning
+-  Unsupervised Learning  
+-  Reinforcement Learning
+-  Feature Engineering
+-  Model Optimization
 
 </td>
 <td align="center" width="33%">
 
 ### 🔮 **Deep Learning**
-<img src="https://img.shields.io/badge/Level-Intermediate-FFA500?style=flat-square" alt="Intermediate Level"/>
 
 **Neural Architectures:**
-- 🎯 Convolutional Networks (CNNs)
-- 🎯 Recurrent Networks (RNNs/LSTMs)
-- 🎯 Transformer Models
-- 🎯 GANs & Autoencoders
-- 🎯 Transfer Learning
+-  Convolutional Networks (CNNs)
+-  Recurrent Networks (RNNs/LSTMs)
+-  Transformer Models
+-  GANs & Autoencoders
+-  Transfer Learning
 
 </td>
 <td align="center" width="33%">
 
 ### 💬 **Natural Language Processing**
-<img src="https://img.shields.io/badge/Level-Growing-FF6B6B?style=flat-square" alt="Growing"/>
 
 **NLP Capabilities:**
-- 📝 Text Classification
-- 📝 Sentiment Analysis
-- 📝 Named Entity Recognition
-- 📝 Language Models
-- 📝 Chatbot Development
+-  Text Classification
+-  Sentiment Analysis
+-  Named Entity Recognition
+-  Language Models
+-  Chatbot Development
 
 </td>
 </tr>
@@ -166,37 +163,21 @@ const mohamedTamer = {
 │  Machine Learning ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✓ │
 │  Scikit-learn, Feature Engineering, Model Evaluation               │
 │                                                                     │
-│  Deep Learning ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🚀    │
+│  Deep Learning ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✓    │
 │  TensorFlow, PyTorch, Neural Networks                              │
 │                                                                     │
-│  NLP & Computer Vision ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🎯          │
+│  NLP & Computer Vision ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✓          │
 │  Transformers, BERT, YOLO, Image Segmentation                      │
 │                                                                     │
-│  MLOps & Production ━━━━━━━━━━━━━━━━━━━━━━━━━ 📚                  │
+│  MLOps & Production ━━━━━━━━━━━━━━━━━━━━━━━━━ ✓                  │
 │  Docker, Kubernetes, CI/CD, Model Monitoring                       │
 │                                                                     │
-│  Research & Innovation ━━━━━━━━━━━━━━━━ 🔮                        │
+│  Research & Innovation ━━━━━━━━━━━━━━━━ ✓                        │
 │  Paper Implementation, Novel Architectures                         │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
         
-        Legend: ✓ Completed | 🚀 In Progress | 🎯 Next Focus | 📚 Learning | 🔮 Future
 ```
-
-### 💡 **Key Milestones & Projects**
-
-<div align="left">
-
-| 🏆 **Achievement** | 📅 **Timeline** | 🔗 **Status** |
-|:---|:---:|:---:|
-| **Full-Stack AI Web Applications** | 2024 | ✅ Deployed |
-| **Deep Learning Image Classifier** | 2024 | ✅ Complete |
-| **NLP Sentiment Analysis System** | 2024 | 🚀 In Progress |
-| **Real-time Object Detection** | 2024 | 🎯 Planning |
-| **MLOps Pipeline Implementation** | 2025 | 📚 Learning |
-| **Research Paper Publication** | 2025 | 🔮 Goal |
-
-</div>
 
 </div>
 
@@ -233,24 +214,6 @@ const mohamedTamer = {
 - 🎨 **UI/UX**: Making AI accessible and beautiful
 
 </details>
-
----
-
-
-## 🤝 Let's Build the Future Together
-
-<div align="center">
-
-### 🎯 **I'm actively seeking:**
-
-| 🚀 **Opportunities** | 🤝 **Collaborations** | 🌟 **Connections** |
-|:---:|:---:|:---:|
-| AI/ML Internships | Open Source Projects | Fellow AI Enthusiasts |
-| Research Projects | Startup Ventures | Industry Mentors |
-| Hackathons | Real-world Applications | Global Communities |
-
-
-</div>
 
 ---
 
