@@ -105,34 +105,98 @@ const mohamedTamer = {
 
 ---
 
+## 🤖 My AI & Development Journey
+
 <div align="center">
 
-# 🤖 My AI & Development Journey
+<table>
+<tr>
+<td align="center" width="33%">
 
-```mermaid
-mindmap
-  root((AI Journey))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Reinforcement Learning
-    Deep Learning
-      Neural Networks
-      CNNs
-      RNNs/LSTMs
-    NLP
-      Text Processing
-      Language Models
-      Sentiment Analysis
-    Web Development
-      React Ecosystem
-      Full-Stack AI Apps
-      API Development
-    MLOps
-      Model Deployment
-      Cloud Platforms
-      CI/CD for ML
+### 🧠 **Machine Learning**
+<img src="https://img.shields.io/badge/Level-Advanced-00D9FF?style=flat-square" alt="Advanced Level"/>
+
+**Core Competencies:**
+- ✅ Supervised Learning
+- ✅ Unsupervised Learning  
+- ✅ Reinforcement Learning
+- ✅ Feature Engineering
+- ✅ Model Optimization
+
+</td>
+<td align="center" width="33%">
+
+### 🔮 **Deep Learning**
+<img src="https://img.shields.io/badge/Level-Intermediate-FFA500?style=flat-square" alt="Intermediate Level"/>
+
+**Neural Architectures:**
+- 🎯 Convolutional Networks (CNNs)
+- 🎯 Recurrent Networks (RNNs/LSTMs)
+- 🎯 Transformer Models
+- 🎯 GANs & Autoencoders
+- 🎯 Transfer Learning
+
+</td>
+<td align="center" width="33%">
+
+### 💬 **Natural Language Processing**
+<img src="https://img.shields.io/badge/Level-Growing-FF6B6B?style=flat-square" alt="Growing"/>
+
+**NLP Capabilities:**
+- 📝 Text Classification
+- 📝 Sentiment Analysis
+- 📝 Named Entity Recognition
+- 📝 Language Models
+- 📝 Chatbot Development
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 **Development Roadmap**
+
 ```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  Foundation ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✓ │
+│  Python, Data Structures, Mathematics, Statistics                  │
+│                                                                     │
+│  Machine Learning ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✓ │
+│  Scikit-learn, Feature Engineering, Model Evaluation               │
+│                                                                     │
+│  Deep Learning ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🚀    │
+│  TensorFlow, PyTorch, Neural Networks                              │
+│                                                                     │
+│  NLP & Computer Vision ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🎯          │
+│  Transformers, BERT, YOLO, Image Segmentation                      │
+│                                                                     │
+│  MLOps & Production ━━━━━━━━━━━━━━━━━━━━━━━━━ 📚                  │
+│  Docker, Kubernetes, CI/CD, Model Monitoring                       │
+│                                                                     │
+│  Research & Innovation ━━━━━━━━━━━━━━━━ 🔮                        │
+│  Paper Implementation, Novel Architectures                         │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+        
+        Legend: ✓ Completed | 🚀 In Progress | 🎯 Next Focus | 📚 Learning | 🔮 Future
+```
+
+### 💡 **Key Milestones & Projects**
+
+<div align="left">
+
+| 🏆 **Achievement** | 📅 **Timeline** | 🔗 **Status** |
+|:---|:---:|:---:|
+| **Full-Stack AI Web Applications** | 2024 | ✅ Deployed |
+| **Deep Learning Image Classifier** | 2024 | ✅ Complete |
+| **NLP Sentiment Analysis System** | 2024 | 🚀 In Progress |
+| **Real-time Object Detection** | 2024 | 🎯 Planning |
+| **MLOps Pipeline Implementation** | 2025 | 📚 Learning |
+| **Research Paper Publication** | 2025 | 🔮 Goal |
+
+</div>
 
 </div>
 
@@ -194,4 +258,3 @@ mindmap
 
 ### 🌟 **"The future belongs to those who train it."**
 *— Mohamed Tamer*
-
