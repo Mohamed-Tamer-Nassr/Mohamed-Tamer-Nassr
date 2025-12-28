@@ -1,4 +1,4 @@
-# 🚀 Mohamed Tamer | Future AI Innovator
+#  Mohamed Tamer | Future AI Innovator
 
 <div align="center">
 
