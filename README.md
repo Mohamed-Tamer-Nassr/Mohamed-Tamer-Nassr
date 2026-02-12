@@ -26,8 +26,8 @@ const mohamedTamer = {
   mission: "Building intelligent systems that understand, reason, and act",
   
   expertise: {
-    llmEngineering: ["RAG", "Fine-tuning", "Embeddings", "Prompt Engineering"],
-    agenticAI: ["Multi-Agent Systems", "Tool Use", "Planning & Memory"],
+    llmEngineering: ["RAG", "Fine-tuning", "Machine Learning", "Context Engineering"],
+    agenticAI: ["Multi-Agent Systems", "MCP", "Agentic AI system", "n8n AI Automation"],
     mlops: ["Docker", "CI/CD", "Model Monitoring", "Production Deployment"],
     fullStack: ["FastAPI", "React/Next.js", "Real-time AI Apps"]
   },
@@ -36,7 +36,8 @@ const mohamedTamer = {
     "🤖 Building production-ready AI agents",
     "🔧 Fine-tuning LLMs with QLoRA/PEFT", 
     "⚡ RAG system optimization",
-    "🚀 Full-stack LLM applications"
+    "🚀 Full-stack LLM applications",
+    "⚡ n8n Automation system"
   ],
   
   dreamRole: "LLM Engineer | AI Research Engineer | ML Engineer",
